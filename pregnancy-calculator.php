@@ -60,11 +60,11 @@ final class YorkLmpPregnancyCalc {
 
     /** 
      * Settings*/
-    add_action( "admin_init", array( $this,'pqrc_settings_init') );
+    add_action( "admin_init", array( $this,'wypc_settings_init') );
 
   }
 
-  public function pqrc_settings_init() 
+  public function wypc_settings_init() 
   {
       add_settings_section('wypc_section',__('Pregnancy Calculator','pregnancy-calculator'),array( $this, 'wypc_section_callback'),'general');
 
