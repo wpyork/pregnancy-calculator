@@ -1,4 +1,4 @@
-=== Custom Login Customizer ===
+=== LMP Pregnancy Calculator ===
 Contributors: wpyork, lincolndu
 Donate link: https://wpyork.com/donate/
 Tags: Pregnancy Calculator, simple Pregnancy Calculator, pregnancy month calculator, pregnancy week calculator, pregnancy milestone calculator, 
